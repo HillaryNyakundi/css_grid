@@ -1,0 +1,1 @@
+About the fundamentals of css grid
